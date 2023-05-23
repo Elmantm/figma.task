@@ -1,0 +1,176 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  .container {
+    max-width: 1400px;
+  }
+  .container nav{
+    display: flex;
+    margin: auto;
+    align-items: center;
+    margin-top: 40px;
+    justify-content: center;
+  }
+  .container .nav2 {
+    width: 100px;
+    margin-left: 235px;
+  }
+  .container nav ul {
+    display: flex;
+    width: 300px;
+    justify-content: space-between;
+    margin-left: 50px;
+    font-size: 18px;
+    margin-right: 440px;
+  }
+  .container nav ul a {
+    text-decoration: none;
+    color: #585858;
+  }
+  .container nav ul a i {
+    font-size: 15px;
+  }
+  .nav3 {
+    display: flex;
+    margin-top: 10px;
+    margin-right: 90px;
+  }
+  
+.nav3 h4 {
+    width: 80px;
+    font-size: 18px;
+    margin-top: 18px;
+    margin-right: 10px;
+  }
+  .nav3 h4 a{
+      text-decoration: none;
+      color: #000000;
+  }
+  .nav3 button {
+    width: 128.09px;
+    height: 51.22px;
+    color: white;
+    font-size: 15px;
+    border-radius: 17px;
+    background-color: #2b788b;
+    border: none;
+  }
+  .nav3 h4 i {
+    height: 5px;
+    width: 5px;
+  }
+  
+ .image .image1 {
+  position: absolute;
+  left: 67.77%;
+  right: 4.31%;
+  top: 15.89%;
+  bottom: 7.29%;
+  height: 600.1px;
+}
+.image .image2 {
+  position: absolute;
+  left: 49.09%;
+  right: 5.1%;
+  top: 14.85%;
+  bottom: 18.43%;
+  height: 520.28px;
+  width: 620.03px;
+}
+.image .image3 {
+  position: absolute;
+  left: 43.52%;
+  right: 65.37%;
+  top: 35.96%;
+  bottom: 39.25%;
+  height: 200.22px;
+}
+
+
+
+
+.text h4 {
+  width: 200px;
+  color: #2b788b;
+  margin: 45px 1403px 620px 237px;
+  text-transform: uppercase;
+}
+.text h1 {
+  position: absolute;
+  top: 175px;
+  left: 233px;
+  font-family: "Dela Gothic One";
+  font-size: 50px;
+  width: 450px;
+}
+.text p {
+  position: absolute;
+  top: 400px;
+  left: 233px;
+  font-family: "Montserrat";
+  font-size: 15.241px;
+  width: 320px;
+  opacity: 4, 14;
+  color: #585858;
+}
+.button {
+  display: flex;
+  position: absolute;
+  align-items: center;
+  top: 470px;
+  left: 230px;
+}
+.button p {
+  width: 80px;
+}
+.button button {
+  width: 150px;
+  background: #c3dce3;
+  border-radius: 14.0304px;
+  color: #2b788b;
+  height: 40px;
+  border: none;
+  font-size: 16px;
+}
+
+
+.content{
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+  top: 600px;
+  left: 240px;
+  font-size: 19px;
+}
+.content .p1{
+margin-left: 150px;
+}
+  
+
+.Number{
+  display: flex;
+  position: absolute;
+  justify-content: center;
+  top: 550px;
+  left: 230px;
+}
+.Number h1{
+font-family:"Dela Gothic One" ;
+  width: 75px;
+  font-size: 35px;
+}
+.Number hr{
+  margin-top: 15px;
+  margin-left: 90px;
+  height: 30px;
+margin-right: 60px;
+border: 1.4192px solid #E0E0E0;
+}
+.Number i{
+  font-size: 33px;
+  color: #2B788B;
+}
+  
